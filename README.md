@@ -1,1 +1,1 @@
-First Version You Would Have To Code Your Own Notes/Chart(If You Know Python) But Next Engine Update Will Be A Better Chart Editor
+# Hello Welcome To The PyRhythmGameEngine This is Currently Version 2.0.0 If You Need Any Help Go To Our Discord:https://discord.gg/nfDYdzJZde Or Our Github:https://github.com/J3STERRR/PyRhythm-Game-Engine/tree/main To Read More About The Engine.
